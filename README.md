@@ -47,6 +47,17 @@
 
 <br/>  
 
+<img src="https://raw.githubusercontent.com/atikij/atikij/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <a href="https://t.me/daun2jj" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
+
+###
 
 ## Connect with me  
 <div align="center">
