@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+science+student)](https://git.io/typing-svg)
 
+* 🌍  I'm based in Moscow
+* 🖥️  See my portfolio at [my site](http://atikij.github.io/portfolio/) (In development)
+* 🧠  I'm learning kafka, MVC
+* ⚡  Write code on jetbrains IDE
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
