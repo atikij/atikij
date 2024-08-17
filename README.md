@@ -1,5 +1,4 @@
 <img src="https://github.com/atikij/atikij/blob/main/header.png" alt="альтернативный текст">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+science+student)](https://git.io/typing-svg)
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
