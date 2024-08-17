@@ -1,7 +1,4 @@
 ### <div align="center">I'm Nikita, full-stack developer. 👨‍💻</div>  
-  
-
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -46,6 +43,8 @@
 </td></tr></table>  
 
 <br/>  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ###
