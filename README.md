@@ -1,7 +1,6 @@
 ### <div align="center">I'm Nikita, full-stack developer. 👨‍💻</div>  
   
 
-<br/>  
 
 
 ## My Skill Set  
@@ -72,5 +71,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
