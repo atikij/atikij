@@ -1,4 +1,4 @@
-### <div align="center">I'm Nikita, full-stack developer. 👨‍💻</div>  
+<img src="https://github.com/atikij/atikij/blob/main/header.png" alt="альтернативный текст">
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
